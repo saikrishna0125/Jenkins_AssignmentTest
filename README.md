@@ -1,4 +1,4 @@
-Setting up a CI/CD pipeline with Maven and Jenkins 
+iiiiSetting up a CI/CD pipeline with Maven and Jenkins 
 ======================================================
 
 The following document describes how to setup a CI/CD pipeline with Jenkins. The example illustrates how code changes can be built with Jenkins and deployed. It can be used as a baseline for creating more advanced pipelines that involve deploying in multiple stages (i.e. deploy to stage/production, etc).
@@ -26,7 +26,7 @@ The following document describes how to setup a CI/CD pipeline with Jenkins. The
 
 - Click on **Manage Jenkins > Manage Plugins**, click on the **Available** tab and search for `Pipeline Utility Plugin`. Install without restarting.
 
-## Setup the pipeline
+### Setup the pipeline
 
 - Click on **New Item** and create a new **Pipeline**
 
